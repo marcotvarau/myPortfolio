@@ -1,0 +1,12 @@
+{
+  "name": "meu-monorepo",
+  "private": true,
+  "workspaces": [
+    "tech-event",
+    "esg-event"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "marcotvarau <marcothulio49@gmail.com>",
+  "license": "MIT"
+}
